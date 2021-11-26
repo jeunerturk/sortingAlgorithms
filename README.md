@@ -2,6 +2,8 @@
 
 ## patika.dev's tasks about sorting algorithms
 
+>Şu an uykum geldiği için yarın kalkınca tamamlayacağım sadece patikadaki kısım tamamlansın diye ilgili ödevi paylaştım.
+
 ---
 ```
 Tasks completed are in folders corresponding to types' names
