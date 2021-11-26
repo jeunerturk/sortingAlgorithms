@@ -4,7 +4,7 @@
 
 ---
 ```
-Task completed is in folders corresponding to types' names
+Tasks completed are in folders corresponding to types' names
 ```
 ---
 ```
